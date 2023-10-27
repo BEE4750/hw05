@@ -233,7 +233,7 @@ Find the optimal solution and report the optimal objective value. Provide a diag
 
 ::: {.cell .markdown}
 
-### Problem 2.4 (5 points)
+#### Problem 2.4 (5 points)
 
 Would you recommend that the cities build the new landfill? Why or why not? Your answer should be based on your analysis but can draw on other considerations as appropriate or desired.
 
