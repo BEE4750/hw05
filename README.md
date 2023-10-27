@@ -34,6 +34,7 @@ This notebook was written using Julia 1.9.2, and depends on the following packag
 - `JuMP.jl`
 - `HiGHS.jl`
 - `DataFrames.jl`
+- `GraphRecipes.jl`
 - `Plots.jl`
 - `Measures.jl`
 - `CSV.jl`
