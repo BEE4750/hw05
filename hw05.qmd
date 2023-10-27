@@ -76,12 +76,12 @@ using MarkdownTables
 
 ## Background
 
-Three cities are developing a coordinated municipal solid waste (MSW) disposal plan.  Three disposal alternatives are being considered: a landfills (LF), a materials recycling facility (MRF), and a waste-to-energy facility (WTE). The capacities of these facilities and the fees for operation and disposal are provided in the table below.
+Three cities are developing a coordinated municipal solid waste (MSW) disposal plan.  Three disposal alternatives are being considered: a landfill (LF), a materials recycling facility (MRF), and a waste-to-energy facility (WTE). The capacities of these facilities and the fees for operation and disposal are provided in the table below.
 
 | **Disposal Facility** | **Capacity** (Mg/d) | **Fixed cost** (\$/d) | **Tipping Fee ** (\$/Mg) | **Recycling Cost** (\$/Mg) |
 |:-------------:|:------------:|:-------------:|:---------:|:--------------:|
 | Landfill 					| 200 | 2000 | 50 |					   |
-| Recycling Facility 		| 350 | 1500 | 7  | 40 (per Mg recycled)|
+| Materials Recycling Facility 		| 350 | 1500 | 7  | 40 (per Mg recycled)|
 | Waste-to-Energy Facility  | 210 | 2500 | 60 |					   |
 
 Transportation costs are \$1.5/Mg-km, and the relative distances between the cities and facilities are provided in the table below. 
@@ -190,6 +190,7 @@ Draw a diagram showing the flows of waste between the cities and the facilities.
 ### Problem 2 (18 points)
 
 It is projected that in the near future the state will introduce a carbon tax that will increase the cost for transportation and for disposal by incineration. It is estimated that the additional costs will be:
+
 * tipping fee for the WTE facility will increase to\$75/Mg; and
 * transportation costs will increase to \$2/Mg-km. 
 
