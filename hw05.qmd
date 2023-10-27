@@ -123,7 +123,7 @@ The information in the above table will help you determine the overall recycling
 
 ::: {.cell .markdown}
 
-### Problem 1 (25 points)
+### Problem 1 (22 points)
 
 In this problem, you will develop an optimal disposal plan for the two cities.
 
@@ -131,7 +131,7 @@ In this problem, you will develop an optimal disposal plan for the two cities.
 
 ::: {.cell .markdown}
 
-#### Problem 1.1 
+#### Problem 1.1 (3 points)
 
 Based on the information above, calculate the overall recycling and ash fractions for the waste produced by each city.
 
@@ -139,7 +139,7 @@ Based on the information above, calculate the overall recycling and ash fraction
 
 ::: {.cell .markdown}
 
-#### Problem 1.2
+#### Problem 1.2 (2 points)
 
 What are the decision variables for your optimization problem? Provide notation and variable meaning.
 
@@ -147,7 +147,7 @@ What are the decision variables for your optimization problem? Provide notation 
 
 ::: {.cell .markdown}
 
-#### Problem 1.3
+#### Problem 1.3 (3 points)
 
 Formulate the objective function. Make sure to include any needed derivations or justifications for your equation(s).
 
@@ -155,7 +155,7 @@ Formulate the objective function. Make sure to include any needed derivations or
 
 ::: {.cell .markdown}
 
-#### Problem 1.4
+#### Problem 1.4 (4 points)
 
 Derive all relevant constraints. Make sure to include any needed justifications or derivations. 
 
@@ -163,7 +163,7 @@ Derive all relevant constraints. Make sure to include any needed justifications 
 
 ::: {.cell .markdown}
 
-#### Problem 1.5
+#### Problem 1.5 (3 points)
 
 Implement your optimization problem in `JuMP`.
 
@@ -171,7 +171,7 @@ Implement your optimization problem in `JuMP`.
 
 ::: {.cell .markdown}
 
-#### Problem 1.6
+#### Problem 1.6 (2 points)
 
 Find the optimal solution. Report the optimal objective value. 
 
@@ -179,7 +179,7 @@ Find the optimal solution. Report the optimal objective value.
 
 ::: {.cell .markdown}
 
-#### Problem 1.7 
+#### Problem 1.7 (5 points)
 
 Draw a diagram showing the flows of waste between the cities and the facilities.  Which facilities (if any) will not be used? Does this solution make sense?
 
@@ -187,7 +187,7 @@ Draw a diagram showing the flows of waste between the cities and the facilities.
 
 ::: {.cell .markdown}
 
-### Problem 2
+### Problem 2 (18 points)
 
 It is projected that in the near future the state will introduce a carbon tax that will increase the cost for transportation and for disposal by incineration. It is estimated that the additional costs will be:
 * tipping fee for the WTE facility will increase to\$75/Mg; and
@@ -209,7 +209,7 @@ The fixed cost of operating this facility would be the same as the first landfil
 
 ::: {.cell .markdown}
 
-#### Problem 2.1
+#### Problem 2.1 (5 points)
 
 What changes are needed to your optimization program from Problem 1 for this decision problem? Formulate any different variables, objectives, and/or constraints.
 
@@ -217,7 +217,7 @@ What changes are needed to your optimization program from Problem 1 for this dec
 
 ::: {.cell .markdown}
 
-#### Problem 2.2
+#### Problem 2.2 (3 points)
 
 Implement the new optimization problem in `JuMP`. 
 
@@ -225,7 +225,7 @@ Implement the new optimization problem in `JuMP`.
 
 ::: {.cell .markdown}
 
-#### Problem 2.3
+#### Problem 2.3 (5 points)
 
 Find the optimal solution and report the optimal objective value. Provide a diagram showing the new waste flows. 
 
@@ -233,7 +233,7 @@ Find the optimal solution and report the optimal objective value. Provide a diag
 
 ::: {.cell .markdown}
 
-### Problem 2.4
+### Problem 2.4 (5 points)
 
 Would you recommend that the cities build the new landfill? Why or why not? Your answer should be based on your analysis but can draw on other considerations as appropriate or desired.
 
