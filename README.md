@@ -10,10 +10,10 @@ If enrolled in the class, a PDF of the completed notebook, **with all cells eval
 
 After completing this lab, students will be able to:
 
-* formulate a linear programming model for generating capacity expansion with renewables;
-* use `JuMP.jl` to solve a linear program;
-* interpret the solution of a linear program and its shadow prices;
-* evaluate the impact of a carbon tax on capacity expansion solutions.
+* formulate a mixed-integer linear program for a solid waste management problem with operational decisions;
+* interpret the solution to this program to provide insight into what facilities to operate;
+* visualize the solution results as a network of waste flows;
+* modify the problem and resulting program to evaluate new proposed investments.
 
 ## Repository Overview
 
